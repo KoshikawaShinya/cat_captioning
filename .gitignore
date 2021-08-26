@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 data
+ten_min_scrapy
